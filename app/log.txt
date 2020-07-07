@@ -1,0 +1,18 @@
+Array
+(
+    [registrosEnviados] => Array
+        (
+            [0] => weltonwms@gmail.com
+            [1] => welton_wms@yahoo.com.br
+        )
+
+    [registrosNaoEnviados] => Array
+        (
+        )
+
+    [registrosSemEmail] => Array
+        (
+        )
+
+    [dataHora] => 2020-07-07 20:46:55
+)
